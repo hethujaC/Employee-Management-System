@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "name": "Kamal",
+    "designation": "HR",
+    "salary": 62000
+  },
+  {
+    "id": 3,
+    "name": "Hethuja",
+    "designation": "software engineer",
+    "salary": 70000
+  },
+  {
+    "id": 4,
+    "name": "Rajah",
+    "designation": "QA",
+    "salary": 50000
+  },
+  {
+    "id": 5,
+    "name": "Samson",
+    "designation": "TL",
+    "salary": 100000
+  }
+]

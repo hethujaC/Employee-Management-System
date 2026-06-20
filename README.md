@@ -63,3 +63,7 @@ npm run build
 cd ../Server
 npm start
 ```
+ ## UI
+ <img width="1917" height="947" alt="image" src="https://github.com/user-attachments/assets/ba1a26bd-c02b-46a6-aab6-e06183b833a4" />
+
+ 
